@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Canon SL3 DSLR",
+    "description": "Canon SL3 DSLR 24.1MP 3\"",
+    "price": 1499.69,
+    "image": "/canon.png",
+    "category": "Cameras",
+    "stock": 100,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "Great product!",
+        "rating": 5
+      },
+      {
+        "user": "Mary Smith",
+        "comment": "Good value for money.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Macbook Pro 16",
+    "description": "Powered by Apple",
+    "price": 2588.00,
+    "image": "/macbook.png",
+    "category": "Laptops",
+    "stock": 50,
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "Alice Johnson",
+        "comment": "Not bad.",
+        "rating": 3
+      },
+      {
+        "user": "Bob Brown",
+        "comment": "I like it.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ASUS ROG Zephyrus",
+    "description": "ASUS laptop to gamers",
+    "price": 399.99,
+    "image": "/asus.png",
+    "category": "Laptops",
+    "stock": 0,
+    "rating": 5.0,
+    "reviews": [
+      {
+        "user": "Joseph Lee",
+        "comment": "Excellent!",
+        "rating": 5
+      },
+      {
+        "user": "Sarah Wilson",
+        "comment": "Will buy again.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "PlayStation 5 Slim Digital",
+    "description": "Impressive games",
+    "price": 139.95,
+    "image": "/playstation.png",
+    "category": "Gaming Consoles",
+    "stock": 20,
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "Janeth Doe",
+        "comment": "Average product.",
+        "rating": 3
+      },
+      {
+        "user": "Mark Smith",
+        "comment": "Could be better.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "PULSE Explore™",
+    "description": "Extraordinary sounds PULSE",
+    "price": 69.09,
+    "image": "/phone02.jpg",
+    "category": "Phones",
+    "stock": 10,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "Adam Johnson",
+        "comment": "Highly recommend!",
+        "rating": 5
+      },
+      {
+        "user": "Emma Brown",
+        "comment": "Very satisfied.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Epson EcoTank L14150",
+    "description": "Epson EcoTank L14150 4-in-1",
+    "price": 119.55,
+    "image": "/printer.jpg",
+    "category": "Printers",
+    "stock": 30,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "user": "Kevin White",
+        "comment": "Good quality.",
+        "rating": 4
+      },
+      {
+        "user": "Laura Green",
+        "comment": "Satisfactory.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Echo Smart Speaker Alexa",
+    "description": "Smart speaker with Alexa quality",
+    "price": 349.66,
+    "image": "/alexa.jpg",
+    "category": "Smart Home",
+    "stock": 5,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "user": "Suzy Brown",
+        "comment": "Not worth the price.",
+        "rating": 2
+      },
+      {
+        "user": "Tom Green",
+        "comment": "Okay product.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "FIFINE USB Microfone",
+    "description": "PC games streaming/recording",
+    "price": 128.59,
+    "image": "/microphone.jpg",
+    "category": "Microphones",
+    "stock": 15,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "Chris Evans",
+        "comment": "Fantastic!",
+        "rating": 5
+      },
+      {
+        "user": "Natalie Portman",
+        "comment": "Loved it!",
+        "rating": 5
+      }
+    ]
+  }
+]
